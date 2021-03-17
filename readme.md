@@ -4,7 +4,7 @@
 
 如本项目对您有所帮助，请帮忙点一个⭐star支持一下作者。如果您想更进一步，可以点击💗Sponsor请我喝杯冰可乐。您的鼓励是我持续维护和优化本项目的最大动力。如有任何问题欢迎提交issue或discussion与我联系，在反馈前请仔细阅读Issues区的[使用说明](https://github.com/lxy764139720/Auto_Attendance/issues/13)哦。
 
-## Description
+## Description 
 
 **特此声明**：项目用于学习交流，仅用于各项无异常时打卡，如有身体不适等情况还请自行如实打卡！
 
